@@ -3,3 +3,4 @@ if (confirm("Press a button!")) {
   } else {
     txt = "You pressed Cancel!";
   }  if (confirm("Press a button!")) {
+  }
